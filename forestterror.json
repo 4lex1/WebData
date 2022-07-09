@@ -1,1 +1,1 @@
-{"Id":"v.2.0.0","SpawnRateInSeconds":0.0,"TimeBeforeSpawn":0.0,"PriestHealth":0,"RangerHealth":0,"WizardHealth":0,"ZombieSpeed":0.0,"ZombieDamage":0.0,"ZombieHealth":0}
+{"Id":"v.3.0.1","SpawnRateInSeconds":4.5,"TimeBeforeSpawn":60.0,"PriestHealth":150,"RangerHealth":100,"WizardHealth":100,"ZombieSpeed":140.0,"ZombieDamage":18,"ZombieHealth":10}
